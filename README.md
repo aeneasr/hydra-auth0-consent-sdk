@@ -1,5 +1,7 @@
 # hydra-consent-app-auth0
 
+**This repository is deprecated**
+
 This repository contains a library and an exemplary express application that connects ORY Hydra with Auth0.
 
 [![CircleCI](https://circleci.com/gh/ory/hydra-auth0-consent-sdk.svg?style=shield)](https://circleci.com/gh/ory/hydra-auth0-consent-sdk)
